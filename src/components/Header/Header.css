@@ -13,3 +13,16 @@
 .header nav a:hover{
     color:darkgoldenrod;
 }
+.user-photo img{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    margin: auto  10px;
+    
+}
+.user-name{
+    color: #fbfbfb;
+    
+    font-weight: 600;
+    margin-right: 20px;
+}
